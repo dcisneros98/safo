@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'safoRebirthDb' );
 
 /** MySQL database username */
-define( 'DB_USER', ' Safouser011' );
+define( 'DB_USER', 'Safouser011' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', 'mandarina123456789' );
